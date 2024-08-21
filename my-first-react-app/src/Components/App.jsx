@@ -1,7 +1,6 @@
 import reactLogo from '../assets/react.svg';
 import viteLogo from '/vite.svg';
 import '../CSS/App.css';
-import Formm from './Formm';
 
 function App() {
   return (
@@ -15,7 +14,6 @@ function App() {
         </a>
       </div>
       <h1>Welcome to my first React Project, <br /> This is a CV maker. </h1>
-      <Formm />
     </>
   )
 }
